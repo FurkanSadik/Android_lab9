@@ -56,11 +56,11 @@ TravelApp
 
 .screens
 
-   .HomeScreen.js
+   ..HomeScreen.js
 
-   .DetailsScreen.js
+   ..DetailsScreen.js
 
-   .SettingsScreen.js
+   ..SettingsScreen.js
 
 .assets
 
