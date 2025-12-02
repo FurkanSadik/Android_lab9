@@ -1,5 +1,5 @@
 Furkan Sadık Kocabaş-200404001-
-Bilgisayar Mühendisliği Öğrencisi 4. Sınıf Öğrencisi
+Bilgisayar Mühendisliği 4. Sınıf Öğrencisi
 
 TravelApp (React Native – Expo)
 Proje Hocalarımızın daha rahat anlayabilmesi için button ve commitler ingilizce olarak ayarlandı.
